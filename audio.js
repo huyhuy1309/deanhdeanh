@@ -30,13 +30,13 @@ $(function () {
     buffInterval = null,
     tFlag = false,
     albums = [
-      "Hẹn Gặp Em Dưới Ánh Trăng",
+      "#HGEDAT",
       "badbye",
       "Your Smile",
       "Nụ Cười Em Là Nắng",
     ],
     trackNames = [
-      "HURRYKNG, HIEUTHUHAI, MANBO",
+      "GERDNANG",
       "WEAN",
       "Emma x Seachains x Obito",
       "Green",
